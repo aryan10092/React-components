@@ -1,4 +1,4 @@
-<img width="1907" height="903" alt="Screenshot 2025-08-24 212015" src="https://github.com/user-attachments/assets/dd120922-49c9-4c90-94ff-5fcd3727472b" /># React Component Library Assignment
+# React Component Library Assignment
 
 ## Overview
 This project is a scalable React component library built with TypeScript, TailwindCSS, and Storybook. It demonstrates modern UI component development, documentation, and testing practices.
